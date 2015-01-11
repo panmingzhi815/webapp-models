@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Sun Jan 11 22:52:30 CST 2015:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.11.1.1 - (1616546): instance a816c00e-014a-d97b-6279-00000643ed48 
+on database directory /home/panmingzhi/Documents/github/webapp/webapp-web/webapp with class loader WebAppClassLoader=webapp is a basic j2ee web application@759fad4 
+Loaded from file:/home/panmingzhi/Documents/software/develop/install/apache-maven-3.0.5/repository/org/apache/derby/derby/10.11.1.1/derby-10.11.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_25-b17
+user.dir=/home/panmingzhi/Documents/github/webapp/webapp-web
+os.name=Linux
+os.arch=amd64
+os.version=3.13.0-32-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
